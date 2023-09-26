@@ -1,5 +1,5 @@
 import { AnimalList } from "./AnimalList";
-const animals=['dog 🐶', 'cat 😹', 'chicken 🐔', 'cow 🐮', 'sheep 🐑', 'horse 🐴']
+const animals=['🐶 dog', '😹 cat', '🐔 chicken', '🐮 cow', '🐑 sheep', '🐴 horse']
 
 function App() {
   return (
